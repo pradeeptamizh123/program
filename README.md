@@ -1,0 +1,2 @@
+# program
+smallest substring
